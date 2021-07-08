@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kkb-dev
 - 👀 I’m interested in ...
-***Machine Learning and the application of programming in Data Science!***
+***Machine Learning and the application of programming in Data Science! 
+Automation in network based systems***
 - 🌱 I’m currently learning ...
 ***Python(pandas,opencv, pytorch), R, C++, Javasript, HTML/CSS***
